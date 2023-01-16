@@ -1,0 +1,11 @@
+D:\Nafiz Imtiaz Khan\Nafiz Imtiaz Khan\C#\!Exercise\String_Manipulation\String_Manipulation\bin\Debug\String_Manipulation.exe.config
+D:\Nafiz Imtiaz Khan\Nafiz Imtiaz Khan\C#\!Exercise\String_Manipulation\String_Manipulation\bin\Debug\String_Manipulation.exe
+D:\Nafiz Imtiaz Khan\Nafiz Imtiaz Khan\C#\!Exercise\String_Manipulation\String_Manipulation\bin\Debug\String_Manipulation.pdb
+D:\Nafiz Imtiaz Khan\Nafiz Imtiaz Khan\C#\!Exercise\String_Manipulation\String_Manipulation\obj\Debug\String_Manipulation.csproj.AssemblyReference.cache
+D:\Nafiz Imtiaz Khan\Nafiz Imtiaz Khan\C#\!Exercise\String_Manipulation\String_Manipulation\obj\Debug\String_Manipulation.csproj.SuggestedBindingRedirects.cache
+D:\Nafiz Imtiaz Khan\Nafiz Imtiaz Khan\C#\!Exercise\String_Manipulation\String_Manipulation\obj\Debug\String_Manipulation.FrmStringManipulation.resources
+D:\Nafiz Imtiaz Khan\Nafiz Imtiaz Khan\C#\!Exercise\String_Manipulation\String_Manipulation\obj\Debug\String_Manipulation.Properties.Resources.resources
+D:\Nafiz Imtiaz Khan\Nafiz Imtiaz Khan\C#\!Exercise\String_Manipulation\String_Manipulation\obj\Debug\String_Manipulation.csproj.GenerateResource.cache
+D:\Nafiz Imtiaz Khan\Nafiz Imtiaz Khan\C#\!Exercise\String_Manipulation\String_Manipulation\obj\Debug\String_Manipulation.csproj.CoreCompileInputs.cache
+D:\Nafiz Imtiaz Khan\Nafiz Imtiaz Khan\C#\!Exercise\String_Manipulation\String_Manipulation\obj\Debug\String_Manipulation.exe
+D:\Nafiz Imtiaz Khan\Nafiz Imtiaz Khan\C#\!Exercise\String_Manipulation\String_Manipulation\obj\Debug\String_Manipulation.pdb
